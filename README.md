@@ -20,7 +20,7 @@ The objective is to build an auditable workflow that connects state reconstructi
 ## Project Structure
 
 data/ → Measurement datasets and benchmark CSVs
-models/ → Serialized checkpoints (.pt)
+models/ → Serialized checkpoints (.pt/.pkl)
 notebooks/ → Cleaned assignment notebooks
 src/ → Modular Python implementations
 results/ → Plots, tables, and figures
